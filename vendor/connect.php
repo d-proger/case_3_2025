@@ -1,5 +1,5 @@
 <?php
-$dsn = "mysql:host=127.127.126.50;dbname=case_3;charset=utf8mb4";
+$dsn = "mysql:host=MySQL-8.2;dbname=case_3;charset=utf8mb4";
 $user = "root";
 $pass = "";
 $options = [
